@@ -34,5 +34,4 @@ Bootstrap • CSS3 • Express • Figma • Git • HTML5 • JavaScript • My
 
 ---
 
-### 🐍 GitHub Snake Animation
-![Snake animation](https://raw.githubusercontent.com/V1ni0menega/V1ni0menega/output/github-contribution-grid-snake.svg)
+
