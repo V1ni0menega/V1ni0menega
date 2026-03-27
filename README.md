@@ -1,24 +1,30 @@
 <p align="center">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="500">
+  <img src="https://giffiles.alphacoders.com/222/222829.gif" width="500">
 </p>
+
 <h2 align="center">Hi 👋 I'm Vinícius Menegussi</h2>
 
-<img src="https://tenor.com/pt-BR/view/481-gif-11821353371854218574" width="500"></img>
-
 <p align="center">
-Front-End Developer in training from Brazil 🇧🇷
+  <img src="https://media1.tenor.com/m/pA3iQm28pU4AAAAd/481.gif" width="500">
 </p>
 
+<p align="center">
+Front-End Developer in training | Brazil 🇧🇷
+</p>
+
+<p align="center">
+Building projects daily and progressing toward Full-Stack Web Development
+</p>
 ---
 
 ## 🧠 About me
 
-- 📚 Studying a technichal degree in systems analysis and development
-- 📚 Currently studying **HTML, CSS , Python , Iot and JavaScript**
+- 📚 Studying a technical degree in Systems Analysis and Development
+- 📚 Currently studying **HTML, CSS , Python , Iot , JavaScript and other technologies**
 - 🚀 Building projects daily with Curso em Vídeo
 - 🌐 Creating responsive layouts and interfaces
 - 🧩 Learning Git and GitHub workflow
-- 🎯 Goal: become a professional Front-End developer and an expert knowledgeable in what I do
+- 🎯 Goal: Goal: become a professional Front-End Developer and build strong expertise in modern web technologies
 
 ---
 
@@ -31,7 +37,7 @@ Front-End Developer in training from Brazil 🇧🇷
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,Iot" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python," />
 </p>
 
 ---
@@ -63,14 +69,39 @@ Front-End Developer in training from Brazil 🇧🇷
 
 ## 📈 Learning Roadmap
 
+### ✅ Already Learned
+
 ✔ HTML  
 ✔ CSS  
-✔ Responsive Design  
-✔ Git & GitHub
-✔ JavaScript
-✔ Linux
-✔ Iot
-✔
+✔ Responsive Design
+
+---
+
+### 📖 Currently Learning
+
+🔄 JavaScript  
+🔄 DOM Manipulation  
+🔄 Git & GitHub  
+🔄 Front-End Application Structure  
+🔄 Clean Code Practices  
+🔄 Software Testing Fundamentals
+
+---
+
+### 🎯 Next Steps
+
+⬜ REST APIs  
+⬜ MVC Architecture  
+⬜ Full Stack Integration  
+⬜ SQL & Database Modeling  
+⬜ Back-End Fundamentals  
+⬜ Linux Environment  
+⬜ TCP/IP Networking  
+⬜ Terminal & Automation Basics  
+⬜ Software Architecture Basics  
+⬜ Deployment Workflows  
+⬜ Cross-Platform Integration  
+⬜ IoT
 
 ## 📌 Featured Projects
 
