@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="700">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="500">
 </p>
-
 <h2 align="center">Hi 👋 I'm Vinícius Menegussi</h2>
+
+<img src="https://tenor.com/pt-BR/view/481-gif-11821353371854218574" width="500"></img>
 
 <p align="center">
 Front-End Developer in training from Brazil 🇧🇷
@@ -12,11 +13,12 @@ Front-End Developer in training from Brazil 🇧🇷
 
 ## 🧠 About me
 
-- 📚 Currently studying **HTML, CSS and JavaScript**
+- 📚 Studying a technichal degree in systems analysis and development
+- 📚 Currently studying **HTML, CSS , Python , Iot and JavaScript**
 - 🚀 Building projects daily with Curso em Vídeo
 - 🌐 Creating responsive layouts and interfaces
 - 🧩 Learning Git and GitHub workflow
-- 🎯 Goal: become a professional Front-End developer
+- 🎯 Goal: become a professional Front-End developer and an expert knowledgeable in what I do
 
 ---
 
@@ -29,7 +31,7 @@ Front-End Developer in training from Brazil 🇧🇷
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,Iot" />
 </p>
 
 ---
@@ -65,6 +67,10 @@ Front-End Developer in training from Brazil 🇧🇷
 ✔ CSS  
 ✔ Responsive Design  
 ✔ Git & GitHub
+✔ JavaScript
+✔ Linux
+✔ Iot
+✔
 
 ## 📌 Featured Projects
 
