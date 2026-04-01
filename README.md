@@ -103,8 +103,3 @@ Building projects daily and progressing toward Full-Stack Web Development
 ⬜ Cross-Platform Integration  
 ⬜ IoT
 
-## 📌 Featured Projects
-
-📂 https://github.com/V1ni0menega/html-css  
-📂 https://github.com/V1ni0menega/Projeto-social  
-📂 https://github.com/V1ni0menega/Porjeto-Cordel
