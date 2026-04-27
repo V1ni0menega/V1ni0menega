@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/222/222829.gif" width="500">
-</p>
 
 <h2 align="center">Hi 👋 I'm Vinícius Menegussi</h2>
 
