@@ -27,7 +27,6 @@ Building projects daily and progressing toward Full-Stack Web Development
 
 ## 🌐 Portfolio
 
-🔗 https://v1ni0menega.github.io/html-css/
 
 ---
 
