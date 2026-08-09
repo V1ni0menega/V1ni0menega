@@ -33,7 +33,7 @@ Building projects daily and progressing toward Full-Stack Web Development
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i==html,css,js,typescript,angular,flutter,mysql,postman,git,github,vscode,docker,figma,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,flutter,mysql,postman,git,github,vscode,docker,figma,npm" />
 </p>
 
 ---
