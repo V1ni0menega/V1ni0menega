@@ -1,4 +1,7 @@
 <img align="right" src="https://media1.tenor.com/m/pA3iQm28pU4AAAAd/481.gif" width="200">
+
+<br clear="center">
+
 <p align="center">
 Full-Stack Developer | Brazil 🇧🇷
 </p>
@@ -8,6 +11,7 @@ Building projects daily, from front-end interfaces to real backend systems in pr
 </p>
 
 <h1 align="center" >Hi 👋 I'm Vinícius Menegussi</h1>
+
 
 ## 🧠 About me
 
